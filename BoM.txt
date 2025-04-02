@@ -1,0 +1,19 @@
+1. RP2040-Zero by waveshare - 1 pc.
+2. SSD1306 OLED 128x64 I2C version - 1 pc.
+3. 130x85 copper clad board - 1 pc.
+4. 6x6 4 pin tact switch - 8 pc.
+5. 6mm red LED - 1 pc.
+6. 6mm green LED - 2 pc.
+7. 180 Ohm 0.25 Watt resistor - 3 pc.
+8. 5.1 kOhm 0.25 What resistor - 2 pc.
+9. 5 kOhm 0.25 Watt resistor - 1 pc.
+10. 8.2 kOhm 0.25 Watt resistor - 1 pc.
+11. 1A7 - 1 pc.
+12. LM317 TO-220 - 1 pc.
+13. 17mm buzzer - 1 pc.
+14. tht micro slide switch that fits into PLS-3 footprint - 1 pc.
+15. PLS-9 female connector - 2 pc. (optional)
+16. PLS-4 female connector - 1 pc. (optional)
+17. M2x10 bolt for battery holder - 2 pc.
+18. M2 nut - 2 pc.
+19. AAAx4 battery holder - 1 pc.
